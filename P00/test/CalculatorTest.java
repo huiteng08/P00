@@ -48,7 +48,7 @@ public class CalculatorTest {
 	    assertEquals(actual, expected);
 	}
 	@Test
-	public void testMultiple() {
+	public void tsestMultiple() {
 		int a = 1234;
 		int b = 8765;
 		
